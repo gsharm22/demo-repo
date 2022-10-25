@@ -1,2 +1,2 @@
 # demo-repo
-Github Intro
+Github Intro: STarting the journey
